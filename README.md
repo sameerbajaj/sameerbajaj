@@ -2,8 +2,6 @@
 
 📍 LA | 🚀 Building at Affirm | 🐦 Previously at Twitter
 
-Deep in the AI infrastructure rabbit hole — context management, embeddings, RAG, and making AI actually useful.
-
 ---
 
 ### Projects
@@ -20,7 +18,7 @@ Deep in the AI infrastructure rabbit hole — context management, embeddings, RA
 ### Writing
 
 - [sameerbajaj.com](https://sameerbajaj.com) — essays on product, AI, books
-- [Book Notes](/books) — 35+ notes
+- [Book Notes](/books) — notes on what I'm reading
 
 ---
 
