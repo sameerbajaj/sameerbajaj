@@ -10,8 +10,8 @@
 - 👶 [Cradlewise Sleep Lab](https://github.com/sameerbajaj/oura-ring) — Oura Ring integration for baby sleep tracking  
 - 📮 [Lenny's Time Capsule](https://github.com/sameerbajaj/timecapsule) — Letters from product legends
 - 🧠 [Notion Web Clipper](https://github.com/sameerbajaj/notion-web-clipper) — Clip webpages to Notion
+- 📊 [CodexAccounts](https://github.com/sameerbajaj/CodexAccounts) — macOS menu bar app for Codex CLI usage tracking
 - 📄 [PDF Tools](https://github.com/sameerbajaj/pdf_toc_generator) — TOC generator, OCR, splitter
-- 🛒 [Amazon Subscriptions](https://github.com/sameerbajaj/amazon_subscriptions) — Track recurring charges
 
 ---
 
