@@ -1,19 +1,19 @@
 ### Hi, I'm Sameer 👋
 
-Building products at [Affirm](https://www.affirm.com/). Previously at Twitter.
+📍 LA | 🚀 Building at Affirm | 🐦 Previously at Twitter
 
-Obsessed with AI infrastructure — context management, embeddings, RAG.
+Deep in the AI infrastructure rabbit hole — context management, embeddings, RAG, and making AI actually useful.
 
 ---
 
 ### Projects
 
-- [KindleWise](https://github.com/sameerbajaj/kindle-to-readwise) — Sync Kindle highlights to Readwise
-- [Cradlewise Sleep Lab](https://github.com/sameerbajaj/oura-ring) — Oura Ring integration for baby sleep tracking
-- [Lenny's Time Capsule](https://github.com/sameerbajaj/timecapsule) — Letters from product legends
-- [Notion Web Clipper](https://github.com/sameerbajaj/notion-web-clipper) — Clip webpages to Notion
-- [PDF Tools](https://github.com/sameerbajaj/pdf_toc_generator) — TOC generator, OCR, splitter
-- [Amazon Subscriptions](https://github.com/sameerbajaj/amazon_subscriptions) — Track recurring charges
+- 📚 [KindleWise](https://github.com/sameerbajaj/kindle-to-readwise) — Sync Kindle highlights to Readwise
+- 👶 [Cradlewise Sleep Lab](https://github.com/sameerbajaj/oura-ring) — Oura Ring integration for baby sleep tracking  
+- 📮 [Lenny's Time Capsule](https://github.com/sameerbajaj/timecapsule) — Letters from product legends
+- 🧠 [Notion Web Clipper](https://github.com/sameerbajaj/notion-web-clipper) — Clip webpages to Notion
+- 📄 [PDF Tools](https://github.com/sameerbajaj/pdf_toc_generator) — TOC generator, OCR, splitter
+- 🛒 [Amazon Subscriptions](https://github.com/sameerbajaj/amazon_subscriptions) — Track recurring charges
 
 ---
 
