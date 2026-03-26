@@ -6,6 +6,8 @@
 
 ### Projects
 
+- 🛠️ [EnhancedSkills](https://github.com/sameerbajaj/EnhancedSkills) — AI skill manager for macOS
+- 🎬 [MacYT](https://github.com/sameerbajaj/MacYT) — Native macOS YouTube downloader
 - 📚 [KindleWise](https://github.com/sameerbajaj/kindle-to-readwise) — Sync Kindle highlights to Readwise
 - 👶 [Cradlewise Sleep Lab](https://github.com/sameerbajaj/oura-ring) — Oura Ring integration for baby sleep tracking  
 - 📮 [Lenny's Time Capsule](https://github.com/sameerbajaj/timecapsule) — Letters from product legends
